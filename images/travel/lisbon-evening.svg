@@ -1,0 +1,13 @@
+﻿<svg width="1200" height="1500" viewBox="0 0 1200 1500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="1500" fill="#F7E7D5"/>
+  <path d="M0 1020L280 870L540 980L860 760L1200 880V1500H0V1020Z" fill="#E3B58D"/>
+  <path d="M0 1150L260 980L470 1080L760 920L1030 1060L1200 980V1500H0V1150Z" fill="#D28964"/>
+  <path d="M0 1290L220 1120L440 1240L720 1090L980 1220L1200 1140V1500H0V1290Z" fill="#B86B4C"/>
+  <circle cx="930" cy="265" r="136" fill="#FFF1C9"/>
+  <path d="M0 220C160 260 290 265 435 225C612 177 711 124 860 149C983 170 1087 250 1200 330V0H0V220Z" fill="#F2DCC4"/>
+  <rect x="170" y="760" width="110" height="180" fill="#F8F0E1"/>
+  <rect x="540" y="670" width="130" height="200" fill="#F0E4D2"/>
+  <rect x="870" y="610" width="95" height="150" fill="#F8F0E1"/>
+  <text x="94" y="1400" fill="#5A4031" font-size="58" font-family="Georgia, serif">Lisbon Evening</text>
+</svg>
+

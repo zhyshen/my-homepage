@@ -1,0 +1,10 @@
+﻿<svg width="1200" height="1450" viewBox="0 0 1200 1450" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="1450" fill="#E9EFE8"/>
+  <path d="M0 980L240 630L470 960L690 580L920 930L1200 500V1450H0V980Z" fill="#9DB29E"/>
+  <path d="M0 1120L250 770L490 1130L720 700L955 1040L1200 780V1450H0V1120Z" fill="#7D947E"/>
+  <path d="M390 1450C440 1310 510 1230 610 1180C720 1123 830 1115 930 1020C1010 944 1064 845 1120 720L1200 720V1450H390Z" fill="#D8C9AD"/>
+  <path d="M0 1270C210 1210 330 1180 465 1200C620 1220 700 1300 860 1310C995 1318 1070 1288 1200 1230V1450H0V1270Z" fill="#EDF3EA"/>
+  <circle cx="885" cy="248" r="96" fill="#FBF8EE"/>
+  <text x="92" y="1365" fill="#425243" font-size="58" font-family="Georgia, serif">Alpine Trail</text>
+</svg>
+

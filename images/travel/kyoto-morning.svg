@@ -1,0 +1,13 @@
+﻿<svg width="1200" height="1600" viewBox="0 0 1200 1600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="1600" fill="#F4E8D7"/>
+  <rect y="1080" width="1200" height="520" fill="#D7B48B"/>
+  <rect x="110" y="420" width="250" height="660" rx="12" fill="#8C5A3F"/>
+  <rect x="360" y="500" width="210" height="580" rx="12" fill="#A56C49"/>
+  <rect x="570" y="460" width="300" height="620" rx="12" fill="#B57B54"/>
+  <rect x="870" y="560" width="160" height="520" rx="12" fill="#925F42"/>
+  <path d="M0 1180C150 1130 280 1100 440 1100C615 1100 710 1150 860 1150C1010 1150 1080 1110 1200 1050V1600H0V1180Z" fill="#E8D1B4"/>
+  <circle cx="920" cy="265" r="120" fill="#FFF5DD"/>
+  <path d="M0 360C120 310 240 290 370 305C540 324 632 396 780 388C958 378 1050 290 1200 230V0H0V360Z" fill="#EDE2CE"/>
+  <text x="96" y="1500" fill="#5A4031" font-size="58" font-family="Georgia, serif">Kyoto Morning</text>
+</svg>
+
